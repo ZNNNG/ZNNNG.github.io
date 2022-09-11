@@ -1,2 +1,2 @@
-# teaching
+# Teaching
 title:a
