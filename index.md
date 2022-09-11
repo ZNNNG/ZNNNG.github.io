@@ -6,16 +6,21 @@ title: Home
 
 # Zhennan Gao
 >Business School, Central University of Finance and Economics
+
+
+## Research Interests
+
+Investor Behavior, Risk Management
+
+## Selected Publication
+Chen, R, Z Gao, X Zhang, and M Zhu (2018). Mutual Fund Managers’ Prior Work Experience and Their Investment Skill. *Financial Management*, 47(1), 3–24.
+
 >
 You can use the [editor on GitHub](https://github.com/znnng/znnng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+```mark
 Syntax highlighted code block
 
 # Header 1
