@@ -1,6 +1,6 @@
 ---
 layout: R
-title: r
+title: Research
 ---
 
 # Research
