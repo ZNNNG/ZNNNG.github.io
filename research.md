@@ -1,6 +1,6 @@
----
-layout: R
+
 title: Research
+
 ---
 
 # Research
