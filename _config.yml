@@ -35,7 +35,8 @@ theme: minima
 
 header_pages:
   - index.md
-  - eng.md
+  - research.md
+  - Teaching.md
   - about.md
 
 # Exclude from processing.
