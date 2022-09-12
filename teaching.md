@@ -1,6 +1,8 @@
 ---
-title: Teaching
+title: Courses
 ---
 ---
-# a
+## Undergraduate: Principles of management, Introduction to management, Writing
+## Graduate: Industry analysis 
+
 
