@@ -7,14 +7,12 @@ title: Home
 # Zhennan Gao
 >*Assistant professor, Business School, Central University of Finance and Economics*
    
-   
 
 ---
 
    
 <br/>
    
-
 ## **Research Interests**
 
 Investor Behavior, Risk Management
