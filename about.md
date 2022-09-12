@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-商业合作，请联系xxx
+Email: zngao@cufe.edu.cn
 
-# 我是大好人
