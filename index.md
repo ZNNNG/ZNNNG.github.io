@@ -8,8 +8,6 @@ title: Home
 >*Business School, Central University of Finance and Economics*
 ---    
    
-<br />  
-
 ## Research Interests
 
 Investor Behavior, Risk Management
