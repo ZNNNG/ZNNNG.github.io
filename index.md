@@ -15,9 +15,8 @@ title: Home
 Investor Behavior, Risk Management
 
 ## Selected Publication
-Chen, R, Z Gao, X Zhang, and M Zhu (2018). Mutual Fund Managers’ Prior Work Experience and Their Investment Skill. *Financial Management*, 47(1), 3–24.
+Chen, R, **Z Gao**, X Zhang, and M Zhu (2018). Mutual Fund Managers’ Prior Work Experience and Their Investment Skill. *Financial Management*, 47(1), 3–24.
 
-## Conferences and Workshops
-2022 CFA
+
 
 
