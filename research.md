@@ -11,6 +11,7 @@ Rui Chen, **Zhennan Gao** and Xueyong Zhang (2019). Return Predictability: Evide
 
 # Working Papers
 Zhennan Gao, Li Liao and Xueyong Zhang. Investor Risk Preference in Post-epidemic Era. 2022
+Abstract:This paper uses the 2003 severe acute respiratory syndrome (SARS) epidemic as a natural experiment to examine how the anxiety and fear induced by infectious disease outbreaks affect individual investors’ risk preference in the post era. Using stock trading data of Chinese individual investors and a difference-in-differences approach, we show that affected individual investors become more risk-averse after the end of SARS epidemic. We find that ratios of stock purchases decrease by roughly 12%, especially on small, high-volatility, high-beta, and unfamiliar stocks. Besides, changes after the epidemic are more prominent for less experienced investors. Additional analyses do not support cognitive ability, wealth effects or firm performance channels.
 
 # Conferences and Workshops
 
