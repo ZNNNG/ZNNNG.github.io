@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-# Zhennan Gao
+# <font style="color: rgb(156,168,184)"> Zhennan Gao</font>
 >*Assistant professor, Business School, Central University of Finance and Economics*
    
 
