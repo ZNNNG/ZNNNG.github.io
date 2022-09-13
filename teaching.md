@@ -4,10 +4,9 @@ title: Courses
 ---
 
 ```mermaid
-graph TD
+graph LR
     节点ID(Undergraduate)
  ```
-    
  Undergraduate: Principles of management, Introduction to management, Writing
     
  Graduate: Industry analysis 
