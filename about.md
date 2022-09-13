@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /aboutaaa/
+permalink: /about/
+---
 ---
 
 Email: zngao@cufe.edu.cn
